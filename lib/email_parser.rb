@@ -5,5 +5,4 @@
 
 class EmailParser(emails)
   
-  
 end

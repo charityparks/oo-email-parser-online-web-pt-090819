@@ -12,8 +12,7 @@ class EmailAddressParser
   end
   
   def parse
-    
-    
-    
-  
+    @emails.split(/, | /).uniq
+    #don't understand the above link_to_remote
+  end
 end
